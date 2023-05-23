@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.js": "javascript",
+        "stdio.h": "c",
+        "http_client.h": "c"
+    }
+}
